@@ -365,6 +365,8 @@ FodyWeavers.xsd
 obj
 bin
 *.db
+appsettings.json
+appsettings.Development.json
 *.rdb
 settings.json
 publish
