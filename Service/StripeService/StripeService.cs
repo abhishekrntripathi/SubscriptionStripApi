@@ -8,7 +8,7 @@ namespace SubscriptionSystem.Service.StripeService
     {
         public StripeService()
         {
-            StripeConfiguration.ApiKey = "sk_test_51Q0IoYH74JKzhpEnel0coygR3N4RKnhNtW8DAsKGC6WQcQSwwA84KGBA2cDMiRVxDf8nnRCMso9tCFxgdHqN9Oli00Ac4YFPQv";
+            StripeConfiguration.ApiKey = "StripeConfiguration.ApiKeycfsdfasdfgafsdgsdfg   ";
         }
         public async Task<string> CreateCustomerAsync(string email, string paymentMethodId)
         {
